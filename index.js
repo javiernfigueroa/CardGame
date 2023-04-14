@@ -49,3 +49,8 @@ function renderCharacter(data) {
 
 renderCharacter(hero);
 renderCharacter(monster);
+
+let x = '1' + 1 + 1 + 1
+x
+
+
